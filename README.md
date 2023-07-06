@@ -7,8 +7,10 @@
   <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
        alt="snake" /></a>
 </div>
+<br>
+</br>
 
-<p align= "center" style="padding-top:20px;">
+<p align= "center">
   <img height= "150" src="https://github-readme-stats.vercel.app/api?username=Kpokharel1122&theme=react&show_icons=true&include_all_commits=true" />
   <img height= "150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kpokharel1122&theme=react&layout=compact" />
 </p>
